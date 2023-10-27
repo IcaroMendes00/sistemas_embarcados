@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/maquina00/atividade01/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/maquina00/atividade01/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/maquina00/atividade01/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/maquina00/atividade01/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/maquina00/atividade01/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/maquina00/atividade01/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/maquina00/atividade01/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/maquina00/atividade01/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/maquina00/atividade01/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/maquina00/atividade01/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
