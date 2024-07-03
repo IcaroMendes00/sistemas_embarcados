@@ -15,8 +15,8 @@
 
 std::string chave;
 
-const char* ssid = "brisa-1726032";
-const char* password = "s17houuz";
+const char* ssid = "identificador wifi";
+const char* password = "senha wifi";
 
 // Configurações do broker MQTT
 const char* mqtt_server = "192.168.0.11";
@@ -25,7 +25,7 @@ const int mqtt_port = 1883;
 WiFiClient espClient;
 PubSubClient client(espClient);
 
-int FLAG= 0;
+int FLAG = 0;
 
 class MyCallbacks: public BLECharacteristicCallbacks 
 {
